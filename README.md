@@ -114,7 +114,13 @@ Step 2: Check Open Ports**
 sudo netstat -tulnp
 ```
 
-Step 3: Set Up SSH Key-Based Authentication**
+Step 3: Set Up SSH Key-Based Authentication**![IMG_6701](https://github.com/user-attachments/assets/c973a410-8234-4622-b919-b6dc8b410713)
+![IMG_6700](https://github.com/user-attachments/assets/4f2e46f1-d638-4959-b89e-c388b69bce88)
+![IMG_6699](https://github.com/user-attachments/assets/e6703471-ee46-4070-a341-3a3e91764734)
+![IMG_6697](https://github.com/user-attachments/assets/ad91684a-e0e3-4e52-a462-9e923c3864f8)
+![IMG_6696](https://github.com/user-attachments/assets/fd1cacab-579e-4233-be7d-171584cb9fd6)
+![IMG_6695](https://github.com/user-attachments/assets/405819ad-3ef0-40fd-a9ad-868e636ef5e4)
+
 Generate SSH Key:
 ```bash
 ssh-keygen -t rsa -b 4096 -C "your-email@example.com"
